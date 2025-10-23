@@ -1,0 +1,62 @@
+
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "plans": "Plans & Pricing",
+    "about": "About Us",
+    "login": "Login",
+    "dashboard": "Dashboard"
+  },
+  "footer": {
+    "description": "The comprehensive platform for growing and managing restaurants and cafes.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "slider": {
+      "slide1": {
+        "title": "The Comprehensive Restaurant Growth Platform",
+        "desc": "Manage operations, quality, and expansion with AI-powered insights."
+      },
+      "slide2": {
+        "title": "Smart Procurement and Recruitment",
+        "desc": "Optimize your supply chain and find the best talent effortlessly."
+      },
+      "slide3": {
+        "title": "Digital Innovation Group",
+        "desc": "Leverage cutting-edge technology to stay ahead of the competition."
+      },
+      "slide4": {
+        "title": "Quality Assurance and Training",
+        "desc": "Ensure the highest standards with our certification and training programs."
+      }
+    },
+    "aiFeaturesTitle": "Our AI-Powered Features",
+    "servicesTitle": "Discover Our Smart Services",
+    "mysteryShopping": "Mystery Shopping",
+    "analytics": "Analytics & Reports",
+    "certification": "Certifications",
+    "stats": {
+      "accuracy": "99.7% Accuracy",
+      "operations": "24/7 Operations",
+      "agents": "500+ Agents",
+      "evaluations": "15K+ Evaluations"
+    },
+    "testimonialsTitle": "What Our Clients Say"
+  },
+  "plans": {
+    "title": "Choose Your Plan",
+    "subtitle": "Flexible plans designed for every stage of your business.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "basic": "Basic",
+    "professional": "Professional",
+    "enterprise": "Enterprise",
+    "getStarted": "Get Started"
+  }
+}
